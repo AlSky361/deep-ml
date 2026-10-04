@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T21:40:23.551Z",
+  "generated_at": "2026-10-04T21:40:25.529Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -75,7 +75,7 @@
       "url": "https://www.deep-ml.com/math-problems/7",
       "path": "math/0007-vector-operations",
       "first_solved_at": "2026-10-02T18:38:08.519Z",
-      "last_pushed_at": "2026-10-02T18:38:08.519Z"
+      "last_pushed_at": "2026-10-04T21:40:25.527Z"
     },
     "math:9": {
       "kind": "math",
@@ -86,7 +86,7 @@
       "url": "https://www.deep-ml.com/math-problems/9",
       "path": "math/0009-matrix-basics",
       "first_solved_at": "2026-10-02T18:39:46.923Z",
-      "last_pushed_at": "2026-10-02T18:39:46.923Z"
+      "last_pushed_at": "2026-10-04T21:40:25.527Z"
     },
     "math:10": {
       "kind": "math",
@@ -97,7 +97,7 @@
       "url": "https://www.deep-ml.com/math-problems/10",
       "path": "math/0010-matrix-multiplication",
       "first_solved_at": "2026-10-02T18:42:00.529Z",
-      "last_pushed_at": "2026-10-02T18:42:00.529Z"
+      "last_pushed_at": "2026-10-04T21:40:25.527Z"
     },
     "math:8": {
       "kind": "math",
@@ -108,7 +108,7 @@
       "url": "https://www.deep-ml.com/math-problems/8",
       "path": "math/0008-vector-norms-and-linear-independence",
       "first_solved_at": "2026-10-02T18:43:04.174Z",
-      "last_pushed_at": "2026-10-02T18:43:04.174Z"
+      "last_pushed_at": "2026-10-04T21:40:25.527Z"
     },
     "problem:121": {
       "kind": "problem",
@@ -184,7 +184,7 @@
       "url": "https://www.deep-ml.com/math-problems/1",
       "path": "math/0001-derivatives-and-gradients",
       "first_solved_at": "2026-10-02T19:48:21.643Z",
-      "last_pushed_at": "2026-10-02T19:48:21.643Z"
+      "last_pushed_at": "2026-10-04T21:40:25.527Z"
     },
     "math:5": {
       "kind": "math",
@@ -195,7 +195,7 @@
       "url": "https://www.deep-ml.com/math-problems/5",
       "path": "math/0005-gradient-descent-updates",
       "first_solved_at": "2026-10-02T20:00:20.711Z",
-      "last_pushed_at": "2026-10-02T20:00:20.711Z"
+      "last_pushed_at": "2026-10-04T21:40:25.527Z"
     },
     "problem:116": {
       "kind": "problem",
@@ -258,7 +258,7 @@
       "url": "https://www.deep-ml.com/math-problems/18",
       "path": "math/0018-descriptive-statistics",
       "first_solved_at": "2026-10-02T20:47:03.574Z",
-      "last_pushed_at": "2026-10-02T20:47:03.574Z"
+      "last_pushed_at": "2026-10-04T21:40:25.527Z"
     },
     "math:19": {
       "kind": "math",
@@ -269,7 +269,7 @@
       "url": "https://www.deep-ml.com/math-problems/19",
       "path": "math/0019-probability-fundamentals",
       "first_solved_at": "2026-10-02T20:47:39.405Z",
-      "last_pushed_at": "2026-10-02T20:47:39.405Z"
+      "last_pushed_at": "2026-10-04T21:40:25.527Z"
     },
     "math:33": {
       "kind": "math",
@@ -280,7 +280,7 @@
       "url": "https://www.deep-ml.com/math-problems/33",
       "path": "math/0033-expectation-and-variance-algebra",
       "first_solved_at": "2026-10-02T20:48:43.813Z",
-      "last_pushed_at": "2026-10-02T20:48:43.813Z"
+      "last_pushed_at": "2026-10-04T21:40:25.527Z"
     },
     "problem:78": {
       "kind": "problem",
